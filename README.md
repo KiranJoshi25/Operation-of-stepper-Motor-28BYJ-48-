@@ -6,3 +6,6 @@ Requirements:
 2] Jumper wires female to female 
 3] ULN2003/2003A Motor Driver
 4] Raspberry Pi 
+
+Connect 2 motor drivers to a raspberry pi as per pin connection given in python program.
+manipulate angle of motor rotation in program as per requirement.
