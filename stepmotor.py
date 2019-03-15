@@ -1,14 +1,24 @@
+
+'''
+All imports
+'''
 import time
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setwarnings(False)
 
+
+'''
+Pin Connection for Motor 1
+'''
 A = 7
 B = 11
 C = 13
 D = 15
-
+'''
+Pin Connection for Motor 2
+'''
 E = 8
 F = 12
 G = 18
